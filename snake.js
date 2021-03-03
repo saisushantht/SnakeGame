@@ -139,5 +139,5 @@ function gameloop(){                    // to run the game till it ends.
 
 init();                               //  starting parameters of the game.
 
-var f = setInterval(gameloop,1000);    //runs after intervals 
+var f = setInterval(gameloop,100);    //runs after intervals 
 
